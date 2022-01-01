@@ -1,0 +1,29 @@
+.container{
+    height:1700px;
+    width: 750px;
+    left:25px;
+    right:25px;
+    background-color:black;
+    position:relative;
+}
+
+.innerContainer{
+    top:150px;
+    left:50px;
+    height:800px;
+    width: 650px;
+    background-color:none;
+    position:absolute;
+}
+
+.table{
+    height:800px;
+    width: 650px;
+}
+
+.head{
+    margin-top:10px;
+    margin-left:250px;
+    height:100px;
+    width:300px;
+}
